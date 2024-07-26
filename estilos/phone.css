@@ -58,7 +58,7 @@ div.caixas {
 
 }
 .caixas > input {
-    width: 80%;
+    width: 75%;
     height: 70%;
     transform: translateY(-10px);
     background-color: #53aaa7;
